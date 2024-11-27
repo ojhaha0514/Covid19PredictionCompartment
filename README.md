@@ -36,8 +36,8 @@ The project uses a modified SEIR model that incorporates vaccination levels and 
    ```
 
 3. **Output**:
-   - Predicted daily cases over the test period.
-   - RMSE metrics for different configurations (e.g., different vaccination levels or variant transmission rates).
+   - Predicted daily cases over test period and fitted daily cases over train period.
+   - RMSE metrics for forecasting result.
 
 ## Results
 
