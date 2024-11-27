@@ -52,7 +52,7 @@ Key findings from the implementation:
 ## Authors
 
 - **Jooha Oh**<sup>1*</sup>, **Catherine Apio**<sup>2</sup>
-- **Corresponding Author**<sup>1</sup>: [Taesung Park](mailto:tspark@stats.snu.ac.kr)
+- Corresponding Author: [**Taesung Park**](mailto:tspark@stats.snu.ac.kr)<sup>1</sup>
 - <sup>1</sup>Department of Statistics, Seoul National University, Seoul, Republic of Korea
 - <sup>2</sup>Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, Republic of Korea
 
