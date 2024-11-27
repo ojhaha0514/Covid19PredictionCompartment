@@ -1,6 +1,10 @@
 
 # SEIQRDVP Model for COVID-19 Impact Analysis
 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2021a-orange)
+![COVID-19](https://img.shields.io/badge/COVID--19-SEIQRDVP%20Model-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 This project implements the SEIQRDVP and SEIQRDV3P mathematical models to study the impact of COVID-19 variants, particularly the Omicron variant, in South Korea. The models are based on the paper titled *Mathematical Modeling of the Impact of Omicron Variant on the COVID-19 Situation in South Korea*.
 
 ## Overview
@@ -14,7 +18,6 @@ The project uses a modified SEIR model that incorporates vaccination levels and 
 
 - **`paper_seir.m`**: Main MATLAB script implementing the SEIQRDVP model.
 - **`owid-covid-data.csv`**: Input data file containing COVID-19 case and vaccination statistics.
-- **`paper1.pdf`**: The original research paper detailing the SEIQRDVP model.
 
 ## Prerequisites
 
@@ -44,6 +47,28 @@ Key findings from the implementation:
 
 ## References
 
-- Jooha Oh, Catherine Apio, and Taesung Park. *Mathematical Modeling of the Impact of Omicron Variant on the COVID-19 Situation in South Korea*. Genomics & Informatics, 2022.
+- Jooha Oh, Catherine Apio, and Taesung Park. *Mathematical Modeling of the Impact of Omicron Variant on the COVID-19 Situation in South Korea*. Genomics & Informatics, 2022. [doi.org/10.5808/gi.22025]{https://doi.org/10.5808/gi.22025}
+
+## Authors
+
+- **Jooha Oh**<sup>1*</sup>, **Catherine Apio**<sup>2</sup>
+- **Corresponding Author**<sup>1</sup>: [Taesung Park](mailto:tspark@stats.snu.ac.kr)
+- <sup>1</sup>Department of Statistics, Seoul National University, Seoul, Republic of Korea
+- <sup>2</sup>Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, Republic of Korea
+
+
+
+---
+
+## Acknowledgments
+
+- Publicly available data collected by Our World In Data were used in this study and can be found at following repository: [https://covid.ourworldindata.org]{https://covid.ourworldindata.org}.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 ---
