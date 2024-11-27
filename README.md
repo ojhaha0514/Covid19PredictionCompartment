@@ -51,8 +51,7 @@ Key findings from the implementation:
 
 ## Authors
 
-- **Jooha Oh**<sup>1*</sup>, **Catherine Apio**<sup>2</sup>
-- Corresponding Author: [**Taesung Park**](mailto:tspark@stats.snu.ac.kr)<sup>1</sup>
+- **Jooha Oh**<sup>1*</sup>, **Catherine Apio**<sup>2</sup>, and **Taesung Park**<sup>1</sup>
 - <sup>1</sup>Department of Statistics, Seoul National University, Seoul, Republic of Korea
 - <sup>2</sup>Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, Republic of Korea
 
